@@ -6,8 +6,12 @@ body {
 
 h1 {
 	text-align: center;
-	border-color: white;
-	border-width: .25em;
-	border-style: single;
 }
 
+h2 {
+  border-color: white;
+  border-width: .25em;
+  border-style: double;
+  }
+
+	
